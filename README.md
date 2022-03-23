@@ -22,7 +22,7 @@ The implementation is compatible with python 3
 You can find the latest version to ...
 
 ```bash
-git clone https://github.com/FabienArcellier/blueprint-python3.git
+git clone https://github.com/FabienArcellier/blueprint-computer-vision-python.git
 ```
 
 ## Usage
