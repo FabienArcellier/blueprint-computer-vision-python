@@ -21,11 +21,11 @@ freeze_requirements: _init_venv ## update the project dependencies based on setu
 
 .PHONY: install_requirements_dev
 install_requirements_dev: _init_venv ## install pip requirements for development
-	poetry install --dev
+	poetry install
 
 .PHONY: install_requirements
 install_requirements: _init_venv ## install pip requirements based on requirements.txt
-	poetry install
+	poetry install --no-dev
 
 .PHONY: lint
 lint: _init_venv ## run pylint

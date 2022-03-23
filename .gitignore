@@ -2,7 +2,7 @@
 # the project directory by default
 #
 # @see https://stackoverflow.com/a/57922911
-/.venv/**
+/.venv/*
 !/.venv/.gitkeep
 
 

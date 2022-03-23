@@ -19,8 +19,8 @@ jobs:
 
             -   name: update package manager & install python3 environment
                 run: |
-                    sudo pip install poetry
-                    poetry install --dev
+                    pip install poetry
+                    make install_requirements_dev
 
             -   name: lint
                 run:
