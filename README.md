@@ -3,19 +3,19 @@
 [![ci](https://github.com/FabienArcellier/blueprint-computer-vision-python/actions/workflows/main.yml/badge.svg)](https://github.com/FabienArcellier/blueprint-computer-vision-python/actions/workflows/main.yml)
 
 
-blueprint to implement a simple spike with python3
+blueprint to implement a simple spike with python3 for computer vision
 
 * test python code
 * use jupyter notebook with python dependencies
 * ...
-
-The implementation is compatible with python 3
 
 ## Getting started
 
 1. clone this repository
 
 2. remove .git directory
+
+3. follow the course [Advanced Computer Vision with Python - Full Course](https://www.youtube.com/watch?v=01sAkU_NvOY)
 
 ## The latest version
 
